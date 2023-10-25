@@ -3,3 +3,4 @@ This repository contains notebooks that visualize chapters from Paul Charbonneau
 ## Notebooks:
 
 - Iterated Growth: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AI-Education-Western-University/natural-computing/HEAD?labpath=Iterated+Growth.ipynb)
+- Forest Fires: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AI-Education-Western-University/natural-computing/HEAD?labpath=Forest+Fires.ipynb)
